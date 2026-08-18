@@ -13,7 +13,7 @@ I'm a Computer Engineering student interested in building practical software sol
 - Git and GitHub
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
