@@ -48,21 +48,28 @@ I'm a Computer Engineering student interested in building practical software sol
 
 ### Listenify
 https://github.com/HarshadKulkarni31/Listenify
+
 A frontend web application inspired by Spotify, built to practice modern web development, responsive UI design, and interactive music interfaces.
 
 **Tech:** HTML, CSS, JavaScript
 
 ### URL Shortener
+https://github.com/HarshadKulkarni31/url-shortener
+
 A modern URL shortener built with Node.js, Express & MongoDB Atlas. Shorten links instantly and track real-time click analytics.
 
 **Tech:** Node.js, Express.js, MongoDB Atlas
 
 ### Golden Ratio Face Scan
+https://github.com/HarshadKulkarni31/Golden-ratio-scan
+
 A web-based application that analyzes facial proportions using the concept of the Golden Ratio and provides visual insights into facial symmetry.
 
 **Tech:** HTML, CSS, JavaScript, Computer Vision
 
 ### Expense Tracker
+https://github.com/HarshadKulkarni31/expense-tracker
+
 A web application for managing and tracking personal expenses with persistent data storage and an easy-to-use interface.
 
 **Tech:** HTML, CSS, JavaScript, Firebase
