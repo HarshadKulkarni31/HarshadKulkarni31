@@ -47,6 +47,7 @@ I'm a Computer Engineering student interested in building practical software sol
 ## Featured Projects
 
 ### Listenify
+https://github.com/HarshadKulkarni31/Listenify
 A frontend web application inspired by Spotify, built to practice modern web development, responsive UI design, and interactive music interfaces.
 
 **Tech:** HTML, CSS, JavaScript
