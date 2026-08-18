@@ -1,17 +1,29 @@
-<h1 align="center">Hi 👋, I'm Harshad Kulkarni</h1>
-<h3 align="center">Computer Engineering student interested in building practical software solutions, with a growing focus on Full-Stack Development,Cloud Computing and AI/ML. I enjoy learning new technologies, developing projects, and exploring how software can solve real-world problems.</h3>
+## Featured Projects
 
-- 🔭 I’m currently working on [Listenify](https://github.com/HarshadKulkarni31/Listenify)
+### Listenify
+A frontend web application inspired by Spotify, built to practice modern web development, responsive UI design, and interactive music interfaces.
 
-- 🌱 I’m currently learning **Cloud Fundamentals, Networking and ML fundamentals.**
+**Tech:** HTML, CSS, JavaScript
 
-- 📫 How to reach me **kulharshad2006@gmail.com**
+[View Repository](https://github.com/HarshadKulkarni31/Listenify)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshad kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshad kulkarni" height="30" width="40" /></a>
-</p>
+### URL Shortener
+A modern URL shortener built with Node.js, Express & MongoDB Atlas. Shorten links instantly and track real-time click analytics.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Tech:** Node.js, Express.js, MongoDB Atlas
 
+[View Repository](https://github.com/HarshadKulkarni31/url-shortener)
+
+### Golden Ratio Face Scan
+A web-based application that analyzes facial proportions using the concept of the Golden Ratio and provides visual insights into facial symmetry.
+
+**Tech:** HTML, CSS, JavaScript, Computer Vision
+
+[View Repository](https://github.com/HarshadKulkarni31/Golden-ratio-scan)
+
+### Expense Tracker
+A web application for managing and tracking personal expenses with persistent data storage and an easy-to-use interface.
+
+**Tech:** HTML, CSS, JavaScript, Firebase
+
+[View Repository](https://github.com/HarshadKulkarni31/expense-tracker)
