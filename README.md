@@ -66,16 +66,6 @@ A web application for managing and tracking personal expenses with persistent da
 
 **Tech:** HTML, CSS, JavaScript, Firebase
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshadKulkarni31&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshadKulkarni31&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshadKulkarni31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## Connect With Me
 
