@@ -6,7 +6,7 @@ I'm a Computer Engineering student interested in building practical software sol
 
 💡 **My Focus:** *Building practical and user-friendly solutions while continuously expanding my technical skills.*
 
-📍 Pune, India | 🌐 **[Portfolio](YOUR_PORTFOLIO_URL)** | 💼 [LinkedIn](https://www.linkedin.com/in/harshad-kulkarni-67582032a/) | 📧 [Email](mailto:kulharshad2006@gmail.com)
+📍 Pune, India | 🌐 **[Portfolio](http://harshad-kulkarni.is-a.dev/)** | 💼 [LinkedIn](https://www.linkedin.com/in/harshad-kulkarni-67582032a/) | 📧 [Email](mailto:kulharshad2006@gmail.com)
 
 ---
 
