@@ -50,6 +50,14 @@ I'm a Computer Engineering student interested in building practical software sol
 
 ## 💻 Featured Projects
 
+### ☁️ [CloudVault](https://d3d8v2xqjcvjs2.cloudfront.net/)
+
+CloudVault is a secure, serverless cloud file management platform that lets users upload, store, view, download, and delete files using Amazon S3, AWS Lambda, and API Gateway.
+
+**Tech:** AWS Lambda (Node.js), API Gateway, Amazon S3, Cognito + Google OAuth, CloudFront, IAM, AWS SAM, CloudWatch, Git/GitHub.
+
+🔗 [View Repository](https://github.com/HarshadKulkarni31/cloudvault)
+
 ### 🎵 [Listenify](https://github.com/HarshadKulkarni31/Listenify)
 
 A frontend web application inspired by Spotify, built to practice modern web development, responsive UI design, and interactive music interfaces.
