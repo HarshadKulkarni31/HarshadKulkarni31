@@ -58,6 +58,8 @@ CloudVault is a secure, serverless cloud file management platform that lets user
 
 🔗 [View Repository](https://github.com/HarshadKulkarni31/cloudvault)
 
+---
+
 ### 🎵 [Listenify](https://github.com/HarshadKulkarni31/Listenify)
 
 A frontend web application inspired by Spotify, built to practice modern web development, responsive UI design, and interactive music interfaces.
