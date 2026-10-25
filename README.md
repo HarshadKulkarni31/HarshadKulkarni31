@@ -60,6 +60,16 @@ CloudVault is a secure, serverless cloud file management platform that lets user
 
 ---
 
+### 🛡️ [Ghost Data Still Exists ?](https://github.com/HarshadKulkarni31/hackerrank-orchestrate-oct2026)
+
+An AI-powered deletion-audit agent that analyzes multi-system evidence, verifies data deletion status, identifies retained data and policy violations, and generates evidence-backed remediation and verification steps.
+
+**Tech:** Python, CSV, JSON, SQL, log and PDF parsing
+
+🔗 [View Repository](https://github.com/HarshadKulkarni31/hackerrank-orchestrate-oct2026)
+
+---
+
 ### 🎵 [Listenify](https://github.com/HarshadKulkarni31/Listenify)
 
 A frontend web application inspired by Spotify, built to practice modern web development, responsive UI design, and interactive music interfaces.
@@ -80,15 +90,6 @@ A modern URL shortener built with Node.js, Express & MongoDB Atlas. Shorten link
 
 ---
 
-### 📐 [Golden Ratio Face Scan](https://github.com/HarshadKulkarni31/Golden-ratio-scan)
-
-A web-based application that analyzes facial proportions using the concept of the Golden Ratio and provides visual insights into facial symmetry.
-
-**Tech:** HTML, CSS, JavaScript, Computer Vision
-
-🔗 [View Repository](https://github.com/HarshadKulkarni31/Golden-ratio-scan)
-
----
 
 ### 💰 [Expense Tracker](https://github.com/HarshadKulkarni31/expense-tracker)
 
